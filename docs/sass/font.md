@@ -1,6 +1,5 @@
-# 字体
-常用用字体处理
-1. SASS mixin
+# 字体处理
+
 ## @mixin font-handle
 ```scss
 @mixin font-handle($fontSize: 16, $lineHeight: 24) {
@@ -19,11 +18,5 @@
     }
     line-height: $lineHeightRatio * 0.85;
   }
-}
-```
-## 2. @mixin ie
-```scss
-@mixin ie {
-  @media screen and (min-width:0\0) and (min-resolution:72dpi) { @content; }
 }
 ```
