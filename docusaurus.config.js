@@ -75,7 +75,13 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '文档总览',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'sassSidebar',
+            position: 'left',
+            label: 'Sass',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
