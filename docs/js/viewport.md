@@ -17,3 +17,5 @@
 ![window](./img/chrome-console-window.png)  
 
 window对象表示一个包含DOM文档的窗口，其document属性指向窗口中截入的DOM文档。window对象实现了Window接口。一些额外的全局函数、命名空间、对象、接口和构造函数与window没有典型的关联，但却是有效的，它们在JavaScript参考和DOM参考中列出。
+
+## document
