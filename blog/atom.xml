@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://roadpiano.github.com/blog</id>
     <title>roadpiano 's blog  Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2023-12-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://roadpiano.github.com/blog"/>
     <subtitle>roadpiano 's blog  Blog</subtitle>
     <icon>https://roadpiano.github.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023-12-11 旅途的开始]]></title>
+        <id>https://roadpiano.github.com/blog/231211-begin</id>
+        <link href="https://roadpiano.github.com/blog/231211-begin"/>
+        <updated>2023-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[高复用代码块存档]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="高复用代码块存档">高复用代码块存档<a href="https://roadpiano.github.com/blog/231211-begin#%E9%AB%98%E5%A4%8D%E7%94%A8%E4%BB%A3%E7%A0%81%E5%9D%97%E5%AD%98%E6%A1%A3" class="hash-link" aria-label="Direct link to 高复用代码块存档" title="Direct link to 高复用代码块存档">​</a></h2>
+<ul>
+<li>消息弹窗模块</li>
+<li>原生JS smooth scroll 基于(requestAnim)</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="网站设计">网站设计<a href="https://roadpiano.github.com/blog/231211-begin#%E7%BD%91%E7%AB%99%E8%AE%BE%E8%AE%A1" class="hash-link" aria-label="Direct link to 网站设计" title="Direct link to 网站设计">​</a></h2>
+<p>域名 okfxk.top</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="群组搭建">群组搭建<a href="https://roadpiano.github.com/blog/231211-begin#%E7%BE%A4%E7%BB%84%E6%90%AD%E5%BB%BA" class="hash-link" aria-label="Direct link to 群组搭建" title="Direct link to 群组搭建">​</a></h2>
+<p>ISSAC<br>
+<!-- -->MC<br>
+<!-- -->MH</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="文章">文章<a href="https://roadpiano.github.com/blog/231211-begin#%E6%96%87%E7%AB%A0" class="hash-link" aria-label="Direct link to 文章" title="Direct link to 文章">​</a></h2>
+<p><a href="https://zhuanlan.zhihu.com/p/30078937" target="_blank" rel="noopener noreferrer">如何不择手段提升scroll事件的性能</a></p>]]></content>
+        <author>
+            <name>Dick Chen</name>
+            <uri>https://github.com/roadpiano</uri>
+        </author>
+        <category label="计划" term="计划"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://roadpiano.github.com/blog/welcome</id>
